@@ -1,0 +1,9 @@
+[submodule "EcoSolution_chatbot_backend_paralelo"]
+	path = EcoSolution_chatbot_backend_paralelo
+	url = https://github.com/ronnydelossantospdev/EcoSolution_chatbot_backend_paralelo.git
+[submodule "EcoSolution_chatbot_web"]
+	path = EcoSolution_chatbot_web
+	url = https://github.com/ronnydelossantospdev/EcoSolution_chatbot_web.git
+[submodule "EcoSolution_chatbot_backend"]
+	path = EcoSolution_chatbot_backend
+	url = https://github.com/ronnydelossantospdev/EcoSolution_chatbot_backend.git
